@@ -1,6 +1,5 @@
 # Mall Customer Segmentation Analysis - Clustering
 
-**Complete Video Tutorial:** https://youtu.be/DYuI4PCzOyw
 
 # Problem Statement
 
